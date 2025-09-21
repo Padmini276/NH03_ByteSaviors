@@ -1,0 +1,436 @@
+{
+    "2515": {
+        "name": "harshita",
+        "age": "19",
+        "history": [
+            {
+                "filename": "2515_sample (1).png",
+                "annotated_image": "http://127.0.0.1:5000/results/annotated_2515_sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "251": {
+        "name": "harshi",
+        "age": "19",
+        "history": [
+            {
+                "filename": "251_sample (1).png",
+                "annotated_image": "http://127.0.0.1:5000/results/annotated_251_sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "254": {
+        "name": "padmini",
+        "age": "30",
+        "history": [
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "778": {
+        "name": "sirisha",
+        "age": "35",
+        "history": [
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "679": {
+        "name": "hh",
+        "age": "88",
+        "history": [
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "89": {
+        "name": "jjj",
+        "age": "77",
+        "history": [
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    },
+    "09": {
+        "name": "kk",
+        "age": "99",
+        "history": [
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            },
+            {
+                "filename": "sample (1).png",
+                "stones": [
+                    {
+                        "width_mm": 89.0,
+                        "height_mm": 71.0,
+                        "location": "bottom-right"
+                    },
+                    {
+                        "width_mm": 92.5,
+                        "height_mm": 73.0,
+                        "location": "bottom-left"
+                    },
+                    {
+                        "width_mm": 667.5,
+                        "height_mm": 69.0,
+                        "location": "bottom-center"
+                    },
+                    {
+                        "width_mm": 119.0,
+                        "height_mm": 134.5,
+                        "location": "center-center"
+                    }
+                ],
+                "report_text": "4 stone(s) detected."
+            }
+        ]
+    }
+}
